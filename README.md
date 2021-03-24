@@ -11,5 +11,5 @@ A typing practice program that will help users increase typing speed while getti
 ![image](https://user-images.githubusercontent.com/63769772/112273034-77159280-8caf-11eb-8379-7bd1d9184b4b.png)
 
 ## Result:
-Users can save their progress after each practice.
+### Users can save their progress after each practice.
 ![image](https://user-images.githubusercontent.com/63769772/112273168-a0362300-8caf-11eb-8dd5-d2ab2f951214.png)
