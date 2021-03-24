@@ -1,0 +1,3 @@
+scanf()is used to enter data into a program while it is executing; 
+the value is stored in a variable. 
+The printf() function displays text or numerical results.

@@ -1,0 +1,5 @@
+A single-dimensional array is a data structure that can store a list of values of the 
+same data type. Elements are stored in contiguous locations. It is referenced using the array 
+name and a subscript. Single-dimensional and two-dimensional arrays may be initialized 
+when they are declared. Single-dimensional arrays are passed to a function by passing the 
+name of the array as an argument. Ex: int grades[5] = {98, 87, 92, 79, 85};

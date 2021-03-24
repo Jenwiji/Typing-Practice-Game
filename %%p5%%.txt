@@ -1,0 +1,3 @@
+Conditions can be constructed from relational expressions using logical 
+operators, &&, ||, and !. An if-else selects between two alternative statements based 
+on the value of an expression. The if-else chain is a multiway selection statement. 

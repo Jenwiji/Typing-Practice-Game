@@ -1,0 +1,7 @@
+realloc() changes the size of previously allocated memory to  a new size. free() releases a 
+block of bytes previously reserved. The malloc() and calloc() functions can be used interchangeably. 
+The malloc(10*sizeof(char)) or calloc(10,sizeof(char)) requests enough memory to store 10 characters. 
+Stack: special type of linked list in which objects can only be added to and removed from the 
+top of the list. Last-In, First-Out (LIFO)list. Another important data structure that relies 
+on linked structures is called a queue. It is a first in, first out (FIFO) structure. 
+Enqueueing:placing a new item on top of the queue. Serving (dequeueing):removing an item from a queue. 

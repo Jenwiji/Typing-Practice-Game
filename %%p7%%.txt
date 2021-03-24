@@ -1,0 +1,4 @@
+Every variable used in a program has scope, data type, a value, and an address. If a parameter 
+or variable is a pointer, then the indirection operator, *, must be used to access the 
+variable. Functions that call themselves are referred to as self-referential or recursive 
+functions. The two types of recursion are direct recursion and mutual recursion. 

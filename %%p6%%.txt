@@ -1,0 +1,5 @@
+The declaration statement for a function is referred to as a function prototype. Function 
+prototypes allow the compiler to check for data type errors. The prototype for a function 
+with empty parameter list requires either writing the keyword void or nothing. 
+Ex: int display(void); A stub is the beginning of a final function, used as a placeholder 
+until the final function is completed. 

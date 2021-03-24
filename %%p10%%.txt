@@ -1,0 +1,6 @@
+In C, a record is referred to as a structure. A structures form consists of the symbolic 
+names, data types, and arrangement of individual data fields in the record. Multiple 
+variables can be defined in one statement. struct {int month; int day; int year;} birth, current; 
+The list of structure members must be preceded by a user-selected structure type name. A union 
+is a data type that reserves the same area in memory for two or more variables. It is declared 
+the same manner as a structure. Pointers to unions use the same notation as pointers to structures. 

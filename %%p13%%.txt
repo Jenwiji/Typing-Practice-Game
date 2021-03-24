@@ -1,0 +1,7 @@
+Dynamic memory allocation: an alternative to fixed memory allocation in which memory space 
+grows or diminishes during program execution. It is also known as run-time allocation. 
+The function malloc() reserves the number of bytes requested by the argument passed to the function 
+and returns the address of the first reserved location as an address of a void datatype, or NULL if 
+sufficient memory is not available. calloc() reserves space for an array of n elements. It returns 
+the address of the first reserved location and initializes all reserved bytes to 0s, or returns NULL 
+if sufficient memory is not available. 

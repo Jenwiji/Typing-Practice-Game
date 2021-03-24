@@ -1,0 +1,5 @@
+The standard library consists of 15 header files. To include the library containing 
+the desired function: #include <header-file-name>. Some examples of standard library 
+functions are mathematical functions, random number generator function, character 
+processing functions, etc. All C compilers provide two functions for creating random 
+numbers: rand() and srand(), defined in the stdlib.h header file. 

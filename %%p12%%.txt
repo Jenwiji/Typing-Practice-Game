@@ -1,0 +1,7 @@
+In most respects an array name and a pointer can be used interchangeably. A pointer 
+access can always be replaced using subscript notation numPtr[i]is valid even if 
+numPtr is a pointer variable. An array name is a pointer constant. grade = &grade[2]; is invalid. 
+Pointers are more efficient than using subscripts for array processing. The addresses in 
+pointers can be compared using any of the relational operators (==, !=, <, >, etc.). 
+A function can return a pointer. The definition of a string automatically involves a 
+pointer (a pointer constant). 

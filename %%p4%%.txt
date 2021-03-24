@@ -1,0 +1,3 @@
+A section of code that is repeated is called a loop. Each repetition is also called 
+an iteration or pass through the loop. The repetition statements include while loop, 
+do-while loop, and for loop. 

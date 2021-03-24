@@ -1,0 +1,6 @@
+A string literal is any sequence of characters enclosed in double quotes. A string is 
+stored as an array of characters terminated by an end-of-string symbolic constant named 
+NULL ('\0'). Some string library routines under string.h include: strcpy(str1, str2), 
+strcat(str1, str2), strlen(string), strcmp(str1, str2), strncpy(str1, str2, n), 
+strncmp(str1, str2, n), strchr(string, char), strtok(string, char). One of the major uses 
+of strings is validating user input, which is an essential part of any program. 

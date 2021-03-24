@@ -1,0 +1,3 @@
+Computers are constructed from physical components referred to as hardware. 
+Hardware facilitates the storage and processing of data under the direction of a stored program. 
+The smallest and most basic data item in a computer is a bit and eight bits form a byte.

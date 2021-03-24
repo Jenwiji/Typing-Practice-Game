@@ -1,0 +1,7 @@
+File: collection of data that is stored together under a common name, usually 
+on a disk, magnetic tape, or CD-ROM. Each file has a unique filename, referred 
+to as the files external name. For example, prices.datand info.txt. There are 
+two basic types of files. Text files and binary files. Naming a file stream is 
+accomplished by declaring a variable name to be of type FILE. Ex :FILE *inFile; 
+Use fopen() to open a file. r, w, a, r+, w+, a+ are some examples of file modes. 
+A file stream is closed using fclose(). 
